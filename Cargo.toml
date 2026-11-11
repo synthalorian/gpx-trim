@@ -1,0 +1,9 @@
+[package]
+name = "gpx-trim"
+version = "0.1.0"
+edition = "2021"
+authors = ["synthalorian"]
+license = "MIT"
+description = "Simplify a GPX track and report distance and elevation gain"
+
+[dependencies]
